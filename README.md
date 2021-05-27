@@ -12,11 +12,11 @@
 
   - Akan muncul tampilan awal seperti dibawah ini, silahkan klik upload pada bagian kanan atas yang sudah ditandai seperti berikut :
   
-   ![WhatsApp Image 2021-05-27 at 10 40 20](https://user-images.githubusercontent.com/71642382/119763165-37e70600-bed9-11eb-9dad-69c689887c0b.jpeg)
+    ![WhatsApp Image 2021-05-27 at 10 40 20](https://user-images.githubusercontent.com/71642382/119763165-37e70600-bed9-11eb-9dad-69c689887c0b.jpeg)
     
   - Setelah itu, klik browse dan pilih file "Machine_Learning_RPS.ipynb" dari hasil ekstrak zip/rar sebelumnya :
   
-   ![Screenshot (22)](https://user-images.githubusercontent.com/71642382/119763838-7cbf6c80-beda-11eb-8d67-0ce6fa68f629.png)
+    ![Screenshot (22)](https://user-images.githubusercontent.com/71642382/119763838-7cbf6c80-beda-11eb-8d67-0ce6fa68f629.png)
 
 
 **4.  Terakhir, Kita tinggal menjalankan "Code Cell" pada setiap bagian kode Machine Learning tersebut :**
