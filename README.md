@@ -2,7 +2,7 @@
 
 **1. Silahkan download file zip/rar Machine_Learning_RPS pada repository di atas**
 
-**2. Kemudian, Ekstraklah file zip/rar tersebut pada folder yang anda inginkan**   
+**2. Kemudian, Ekstraklah file zip/rar tersebut pada folder yang anda inginkan :**   
 
   - Jika sudah, akan terdapat file yang berekstensi .ipynb, file tersebut-lah yang akan kita gunakan
 
